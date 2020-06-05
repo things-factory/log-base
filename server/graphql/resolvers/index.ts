@@ -1,3 +1,5 @@
+import * as Log from './log'
+
 // import * as CommonCode from './common-code'
 // import * as CommonCodeDetail from './common-code-detail'
 //
@@ -11,6 +13,6 @@
 //   CommonCodeDetail.Mutation
 // ]
 
-export const queries = []
+export const queries = [ Log.Query ]
 
 export const mutations = []

@@ -30,7 +30,8 @@
     "stop": "things-factory-stop log-base"
   },
   "dependencies": {
-    "@things-factory/shell": "*"
+    "@things-factory/shell": "*",
+    "app-root-path": "^3.0.0"
   },
   "devDependencies": {}
 }
